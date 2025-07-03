@@ -1,0 +1,26 @@
+exercise_type,met_value,category,intensity,equipment_needed
+Walking,3.5,Cardio,Low,None
+Running,8.0,Cardio,High,None
+Cycling,6.8,Cardio,Moderate,Bicycle
+Swimming,6.0,Cardio,Moderate,Pool
+Weight Training,6.0,Strength,High,Weights
+Yoga,2.5,Flexibility,Low,Mat
+Pilates,3.0,Flexibility,Low,Mat
+Basketball,6.5,Sports,Moderate,Ball
+Tennis,5.0,Sports,Moderate,Racket
+Soccer,7.0,Sports,High,Ball
+Dancing,4.8,Recreation,Moderate,None
+Hiking,6.0,Outdoor,Moderate,None
+Rowing,8.5,Cardio,High,Machine
+Elliptical,5.0,Cardio,Moderate,Machine
+Jumping Rope,10.0,Cardio,High,Rope
+Rock Climbing,8.0,Outdoor,High,Gear
+Martial Arts,5.0,Combat,Moderate,None
+Boxing,8.0,Combat,High,Gloves
+Aerobics,6.0,Cardio,Moderate,None
+Stretching,2.3,Flexibility,Low,Mat
+Volleyball,4.0,Sports,Moderate,Ball
+Badminton,4.5,Sports,Moderate,Racket
+Golf,3.5,Recreation,Low,Clubs
+Bowling,3.0,Recreation,Low,None
+Skateboarding,5.0,Recreation,Moderate,Board

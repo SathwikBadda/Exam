@@ -1,0 +1,31 @@
+food_item,calories_per_100g,protein_g,carbs_g,fat_g,fiber_g,category
+Apple,52,0.3,14.0,0.2,2.4,Fruit
+Banana,89,1.1,23.0,0.3,2.6,Fruit
+Chicken Breast,165,31.0,0.0,3.6,0.0,Protein
+Salmon,208,25.4,0.0,13.4,0.0,Protein
+Broccoli,34,2.8,7.0,0.4,2.6,Vegetable
+Rice,130,2.7,28.0,0.3,0.4,Grain
+Oats,389,16.9,66.0,6.9,10.6,Grain
+Eggs,155,13.0,1.1,11.0,0.0,Protein
+Spinach,23,2.9,3.6,0.4,2.2,Vegetable
+Sweet Potato,86,2.0,20.0,0.1,3.0,Vegetable
+Almonds,579,21.2,22.0,49.9,12.5,Nuts
+Greek Yogurt,59,10.0,3.6,0.4,0.0,Dairy
+Quinoa,368,14.1,64.0,6.1,7.0,Grain
+Avocado,160,2.0,9.0,15.0,7.0,Fruit
+Tomato,18,0.9,3.9,0.2,1.2,Vegetable
+Lentils,116,9.0,20.0,0.4,7.9,Legume
+Milk,42,3.4,5.0,1.0,0.0,Dairy
+Cheese,113,25.0,1.3,33.0,0.0,Dairy
+Bread,265,9.0,49.0,3.2,2.7,Grain
+Pasta,131,5.0,25.0,1.1,1.8,Grain
+Olive Oil,884,0.0,0.0,100.0,0.0,Fat
+Carrots,41,0.9,10.0,0.2,2.8,Vegetable
+Beans,127,9.0,23.0,0.5,6.4,Legume
+Tuna,144,30.0,0.0,1.0,0.0,Protein
+Turkey,104,29.0,0.0,1.0,0.0,Protein
+Orange,47,0.9,12.0,0.1,2.4,Fruit
+Strawberries,32,0.7,8.0,0.3,2.0,Fruit
+Blueberries,57,0.7,14.0,0.3,2.4,Fruit
+Beef,250,26.0,0.0,15.0,0.0,Protein
+Pork,242,26.0,0.0,14.0,0.0,Protein
